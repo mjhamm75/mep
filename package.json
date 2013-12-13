@@ -1,0 +1,15 @@
+{
+  "name": "express-app",
+  "version": "0.0.0",
+  "description": "MEAP stack",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Hamm",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "~3.4.7",
+    "logfmt": "~0.17.0"
+  }
+}
